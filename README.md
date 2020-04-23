@@ -102,3 +102,7 @@ Monorepo
             ├── ...
             └── PreProcessorN
 ```
+
+## Live Examples
+
+* [Hello World example of custom Java code](https://github.com/Temenos-Quantum/fabric-java-sample).
